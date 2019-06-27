@@ -1,0 +1,93 @@
+.topo {
+	height:50px;
+	background-color:#8FBC8F;
+}
+
+.topo-int {
+	width:1000px;
+	margin:auto;
+}
+
+.menu ul{
+	float:right;
+	font-size:14px;
+	line-height: 50px;
+	list-style-type:none;
+
+}
+
+.menu li {
+	float:left;
+	margin-left:10px;
+}
+
+.menu li:hover{
+	background-color:#f9cf00;
+}
+
+.banner-int{
+	width:1200px;
+	margin:auto;
+}
+
+.banner{
+	background-color:#4717f6;
+	height:300px;
+}
+
+.banner-direita{
+	float:right;
+
+	font-size:20px
+	color:#ffffff;
+	padding:40px
+}
+
+.banner-esquerda {
+	float:left;
+}
+
+.frase1 {
+	font-size:48px;
+	margin-top:60px;
+}
+
+.conteudointerno {
+	width:100px;
+	margin:auto;
+}
+
+.outrosprodutos{
+	font-size:20px;
+	height:90px;
+	text-align:center;
+	line-height:90px;
+}
+.fotos{
+	background-color:#000000;
+	margin-right:10px;
+	margin-left:10px;
+}
+
+.rodape{
+	height:25px;
+	background-color:#0e0b16;
+	text-align:center;
+	line-height: 25px;
+	padding:35px;
+	color:#ffffff;
+}
+
+.fotos img{
+	margin-left:10px;
+	margin-right:10px;
+
+}
+
+
+table{
+			text-align: center;
+			background-color:#8B0000;
+			margin-right:30px;
+			padding:20px;
+		}
